@@ -1,0 +1,26 @@
+{
+  "name": "jquery.geolocation",
+  "version": "1.0.1",
+  "description": "jquery.geolocation 获取地理位置",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "HTML5",
+    "validate"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery.geolocation"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery.geolocation.js",
+    "dependencies": {}
+  }
+}
